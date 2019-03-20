@@ -105,6 +105,8 @@ header h1{
 /* While the mouse is on an image, it changes the border color and the cursor. */
 .choice:hover{
   border-color: #E57254;
+  border-style: solid;
+  border-width: 2px 7px 7px 2px;
   cursor: pointer;
 }
 
